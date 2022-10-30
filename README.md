@@ -11,7 +11,7 @@ Using left hand when working on PC is solution too. Especially if one have unive
 
 But this doesn't work when playing games. CS:GO, Tank Force and others were created to play using mouse on a right hand.
 
-So one should change default mouse action button in Windows OS settings few times a day. To speed up it I wrote SMB utility. Setting could be changed within one click. Simple as it should be.
+So one should change default mouse action button in Windows OS settings few times a day when switch between work and play sessions. To speed up it I wrote SMB utility. Setting could be changed within one click. Simple as it should be.
 
 # FAQ
 
