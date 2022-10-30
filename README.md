@@ -1,5 +1,5 @@
 # SMB
-SMB - utility for fast swap mouse buttons on Windows OS
+SMB - utility for fast swap mouse buttons on Windows OS.
 
 # Motivation
 
