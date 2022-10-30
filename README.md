@@ -25,7 +25,7 @@ A: there are some reasons:
 1. I'm in Moscow, Russian Federation
 2. Russian government started some military actions in February 2022
 3. Since then [Qt is not available for Russian IPs](https://forum.qt.io/topic/134724/unlock-qt-in-russia)
-4. [Roskomnadzor](https://en.wikipedia.org/wiki/Roskomnadzor) (Federal Service for Supervision of Communications, Information Technology and Mass Media) blocked Windscribe, ProtonVPN and other popular VPN services
+4. [Roskomnadzor](https://en.wikipedia.org/wiki/Roskomnadzor) (Federal Service for Supervision of Communications, Information Technology and Mass Media of Russia) blocked Windscribe, ProtonVPN and other popular VPN services in Russia
 5. I didn't find option to download Qt SDK using torrents
 
 ## Q: How to build executable by myself?
