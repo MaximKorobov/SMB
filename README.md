@@ -16,7 +16,7 @@ So one should change default mouse action button in Windows OS settings few time
 # FAQ
 
 ## Q: why so small and simple utility has so big (8 megabytes) executable?
-A: I know that on pure C++ it's size could be less that a 64 kilobytes. that is how Python + [pyinstaller](https://pyinstaller.org) work together. Patches are welcome to improve the numbers. 
+A: I know that on pure C++ it's size could be less that a 64 kilobytes. That is how Python + [pyinstaller](https://pyinstaller.org) work together. Patches are welcome to improve the numbers. 
 
 ## Q: why did you use pure Python without Qt?
 A: there are some reasons:
