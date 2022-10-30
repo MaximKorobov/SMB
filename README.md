@@ -33,3 +33,5 @@ A: install [pyinstaller](https://pyinstaller.org/en/stable/installation.html), t
 ```
 pyinstaller <your project's folder>\SMB\smb.py --onefile --noconsole
 ```
+## Q: what about code license?
+A: copyright (C) 2022 Maxim Korobov maxim.korobov@gmail.com. Apache 2.0 license. Do not steal it or I will shoot :D
