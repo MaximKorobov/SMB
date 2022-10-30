@@ -42,13 +42,7 @@ def get_icon(state_left):
 
 
 # Context menu items
-def action_quit():
-    icon.stop()
-    exit()
-
-
 def action_swap():
-    print("Swap")
     global stateLeft, icon
 
     stateLeft = not stateLeft
@@ -56,8 +50,22 @@ def action_swap():
     set_system_state(stateLeft)
 
 
+def action_about():
+    import win32con
+    message_box = ctypes.windll.user32.MessageBoxW
+    message_box(None, 'Swap mouse buttons\n\n' + 'Maxim Korobov © 2022\n\n' + 'Apache 2.0 License',
+                'SMB', (win32con.MB_OK | win32con.MB_ICONINFORMATION))
+
+
+def action_quit():
+    icon.stop()
+    exit()
+
+
 menu = (
-    MenuItem('Swap', action_swap, default=True, visible=True),
+    MenuItem('Swap mouse buttons', action_swap, default=True, visible=True),
+    Menu.SEPARATOR,
+    MenuItem('About', action_about),
     Menu.SEPARATOR,
     MenuItem('Quit', action_quit)
 )
