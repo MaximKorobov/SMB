@@ -1,6 +1,8 @@
 # SMB
 Utility for fast **s**wap **m**ouse **b**uttons on Windows OS.
 
+![About gif image](https://github.com/MaximKorobov/SMB/blob/main/about.gif)
+
 # Motivation
 
 I'm 35 years old. After some time a small pain appear in my right hand's wrist. Sounds similar to [Carpal tunnel syndrome](https://en.wikipedia.org/wiki/Carpal_tunnel_syndrome).
