@@ -16,12 +16,12 @@ So one should change default mouse action button in Windows OS settings few time
 # FAQ
 
 ## Q: why so small and simple utility has so big (8 megabytes) executable?
-A: I know that on pure C++ it's size could be less that a 64 kilobytes. That is how Python + [pyinstaller](https://pyinstaller.org) work together. Patches are welcome to improve the numbers. 
+A: I know that on pure C++ it's size could be less than 64 kilobytes. That is how Python + [pyinstaller](https://pyinstaller.org) work together. Patches are welcome to improve the numbers. 
 
 ## Q: why did you use pure Python without Qt?
 A: there are some reasons:
 1. I'm in Moscow, Russian Federation
-2. Russian government started some military actions in February of 2022
+2. Russian government started some military actions in February 2022
 3. Since then [Qt is not available for Russian IPs](https://forum.qt.io/topic/134724/unlock-qt-in-russia)
 4. [Roskomnadzor](https://en.wikipedia.org/wiki/Roskomnadzor) (Federal Service for Supervision of Communications, Information Technology and Mass Media) blocked Windscribe, ProtonVPN and other popular VPN services
 5. I didn't find option to download Qt SDK using torrents
