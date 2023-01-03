@@ -2,4 +2,4 @@ pystray
 pywin32
 pywin32-ctypes
 pyinstaller
-PIL
+pillow
